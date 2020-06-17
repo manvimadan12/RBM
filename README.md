@@ -1,6 +1,14 @@
 # RBM
 This repository contains the implementation of RBM for a movie recommendation system. We would like to predict if the user liked the movie or now.
 
+
+# Requirements
+[Python](https://www.python.org/downloads/)
+
+### Install the required libraries through command line
+
+`pip3 intsall -r requirements.txt`
+
 # Dataset
 Movie Lens Movie Recommendation from GroupLens Research Licence [1]
 
